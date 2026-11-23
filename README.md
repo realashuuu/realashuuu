@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header-gh.gif" alt="Banner" width="100%">
+</p>
 <!-- ═══════════════════════════════════════════════════════════════
      Ashik Khan · GitHub Profile README
      Repo must be named exactly: realashuuu/realashuuu  (public)
