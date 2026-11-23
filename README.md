@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I’ve solved 100 LeetCode problems in C++ and work across C++, Python and JavaScript. I’m particularly interested in backend engineering, database design, and real-world LLM integrations alongside core CS fundamentals[cite: 1].
+  I’ve solved 100 LeetCode problems in C++ and work across C++, Python and JavaScript. I’m particularly interested in backend engineering, database design, and real-world LLM integrations alongside core CS fundamentals.
 </p>
 
 <h2 align="center">🤝 Connect</h2>
