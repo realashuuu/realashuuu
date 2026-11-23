@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Ashik%20Khan&fontSize=62&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Product%20Builder&descSize=18&descColor=C9D1D9&descAlignY=58" width="100%" alt="Ashik Khan header banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=56&lines=Building+scalable+web+applications;Full+stack+engineering+with+TypeScript+and+Node.js;Integrating+AI+and+LLMs+into+real+products;Turning+ideas+into+reliable+software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=56&lines=Building+scalable+web+applications;Full+stack+engineering;Integrating+AI+and+LLMs+into+real+products;Turning+ideas+into+reliable+software" alt="Typing animation" />
 </p>
 
 <h2 align="center">🚀 About Me</h2>
